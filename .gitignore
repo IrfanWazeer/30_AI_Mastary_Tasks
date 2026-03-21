@@ -1,1 +1,5 @@
 .env
+__pycache__/
+Resturant_Assisstant/__pycache__/
+first_ai.pyc
+
