@@ -1,0 +1,16 @@
+.env
+__pycache__/
+Resturant_Assisstant/__pycache__/
+first_ai.pyc
+chroma_db/
+.venv/
+streamlit_app.pyc
+.streamlit/
+.streamlit/config.toml
+.streamlit/config.toml
+__pycache__/
+Resturant_Assisstant/__pycache__/
+first_ai.pyc
+streamlit_app.py
+.streamlit/
+.streamlit/config.toml
