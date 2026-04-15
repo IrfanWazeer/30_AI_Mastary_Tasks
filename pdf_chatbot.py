@@ -14,7 +14,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
-PDF_PATH = "HumanResourcePolicy.pdf"
+PDF_PATH = "Online Application Print for Candidate.pdf"
 PERSIST_DIR = "chroma_db"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 GROQ_MODEL = "llama-3.3-70b-versatile"
